@@ -1,0 +1,218 @@
+Genes,ID,Description,GeneRatio,BgRatio,pvalue,p.adjust,geneID
+Down-regulated,GO:1901605,alpha-amino acid metabolic process,40/347,167/15715,3.05980336462703e-30,1.097245486555253e-26,Acadsb/Hnf4a/Gldc/Glud1/Gcat/Sephs2/Gamt/Kynu/Nags/Pipox/Aldh4a1/Haao/Agxt2/Fh1/Qdpr/Ttc36/Tdo2/Afmid/Prodh/Pah/Hpd/Asl/Arg1/Sardh/Aass/Hgd/Cth/Cps1/Cbs/Agxt/Sdsl/Gnmt/Tat/Acmsd/Ass1/Dct/Got1/Gls2/Sds/Oat
+Down-regulated,GO:0006520,cellular amino acid metabolic process,45/347,241/15715,6.18617742613972e-29,1.109181612506852e-25,Acadsb/Hnf4a/Gldc/Glud1/Gcat/Sephs2/Gamt/Kynu/Nags/Pipox/Upb1/Aldh4a1/Haao/Agxt2/Fh1/Qdpr/Ttc36/Tdo2/Uroc1/Afmid/Prodh/Hal/Ftcd/Pah/Hpd/Asl/Arg1/Sardh/Aass/Hgd/Cth/Cps1/Cbs/Agxt/Ddc/Sdsl/Gnmt/Tat/Acmsd/Ass1/Dct/Got1/Gls2/Sds/Oat
+Down-regulated,GO:0009063,cellular amino acid catabolic process,30/347,84/15715,1.1005400860170945e-28,1.3155122494857668e-25,Acadsb/Gldc/Glud1/Gcat/Kynu/Pipox/Aldh4a1/Agxt2/Qdpr/Tdo2/Uroc1/Afmid/Prodh/Hal/Ftcd/Pah/Hpd/Arg1/Sardh/Aass/Hgd/Cbs/Agxt/Sdsl/Tat/Acmsd/Got1/Gls2/Sds/Oat
+Down-regulated,GO:1901606,alpha-amino acid catabolic process,27/347,67/15715,1.303667612768507e-27,1.1687380148469665e-24,Acadsb/Gldc/Glud1/Gcat/Kynu/Pipox/Aldh4a1/Agxt2/Qdpr/Tdo2/Afmid/Prodh/Pah/Hpd/Arg1/Sardh/Aass/Hgd/Cbs/Agxt/Sdsl/Tat/Acmsd/Got1/Gls2/Sds/Oat
+Down-regulated,GO:0046395,carboxylic acid catabolic process,40/347,203/15715,9.876840897849456e-27,7.08367029193763e-24,Acadsb/Etfb/Gldc/Glud1/Gcat/Abcd1/Kynu/Pipox/Aldh4a1/Agxt2/Ldhd/Qdpr/Cyp4f15/Tdo2/Uroc1/Afmid/Prodh/Hal/Ftcd/Pah/Hpd/Arg1/Sardh/Aass/Hgd/Bdh2/Aldh1l1/Gnpda1/Cbs/Agxt/Sdsl/Lpin1/Tat/Acmsd/Pck1/Obp2a/Got1/Gls2/Sds/Oat
+Down-regulated,GO:0016054,organic acid catabolic process,40/347,205/15715,1.46817778053807e-26,8.77480920168253e-24,Acadsb/Etfb/Gldc/Glud1/Gcat/Abcd1/Kynu/Pipox/Aldh4a1/Agxt2/Ldhd/Qdpr/Cyp4f15/Tdo2/Uroc1/Afmid/Prodh/Hal/Ftcd/Pah/Hpd/Arg1/Sardh/Aass/Hgd/Bdh2/Aldh1l1/Gnpda1/Cbs/Agxt/Sdsl/Lpin1/Tat/Acmsd/Pck1/Obp2a/Got1/Gls2/Sds/Oat
+Down-regulated,GO:0044282,small molecule catabolic process,47/347,310/15715,4.881581972391769e-26,2.5007647075709838e-23,Acadsb/Etfb/Gldc/Glud1/Gcat/Hagh/Abcd1/Kynu/Pipox/Upb1/Aldh4a1/Agxt2/Uox/Ldhd/Qdpr/Cyp4f15/Tdo2/Uroc1/Nqo2/Afmid/Prodh/Hal/Ftcd/Pah/Hpd/Arg1/Sardh/Aass/Hgd/Bdh2/Aldh1l1/Gnpda1/Upp2/Dpyd/Cbs/Agxt/Sdsl/Lpin1/Tat/Mtmr7/Acmsd/Pck1/Obp2a/Got1/Gls2/Sds/Oat
+Down-regulated,GO:0009072,aromatic amino acid family metabolic process,12/347,26/15715,8.137098484005394e-14,3.647454395455418e-11,Kynu/Haao/Qdpr/Ttc36/Tdo2/Afmid/Pah/Hpd/Hgd/Tat/Acmsd/Dct
+Down-regulated,GO:0046394,carboxylic acid biosynthetic process,29/347,269/15715,1.6953804002609884e-12,6.069630126733579e-10,Hnf4a/Sephs2/Abcd1/Gamt/Kynu/Nags/Fads1/Upb1/Haao/Acsm5/Agxt2/Cyp2c23/Fgfr4/Pah/Asl/Aass/Cth/Cbs/Agxt/Sdsl/Gstp1/Cyp7b1/Acmsd/Cyp4a12b/Ass1/Got1/Gls2/Sds/Gstp2
+Down-regulated,GO:0043648,dicarboxylic acid metabolic process,17/347,81/15715,1.7000933804761459e-12,6.069630126733579e-10,Glud1/Mdh1/Kynu/Nags/Aldh4a1/Haao/Fh1/Prodh/Asl/Aldh1l1/Tat/Acmsd/Ass1/Pck1/Got1/Gls2/Oat
+Down-regulated,GO:0016053,organic acid biosynthetic process,29/347,270/15715,1.8618497321268646e-12,6.069630126733579e-10,Hnf4a/Sephs2/Abcd1/Gamt/Kynu/Nags/Fads1/Upb1/Haao/Acsm5/Agxt2/Cyp2c23/Fgfr4/Pah/Asl/Aass/Cth/Cbs/Agxt/Sdsl/Gstp1/Cyp7b1/Acmsd/Cyp4a12b/Ass1/Got1/Gls2/Sds/Gstp2
+Down-regulated,GO:0008652,cellular amino acid biosynthetic process,15/347,61/15715,3.0092082730678023e-12,8.992517389350949e-10,Sephs2/Nags/Upb1/Agxt2/Pah/Asl/Aass/Cth/Cbs/Agxt/Sdsl/Ass1/Got1/Gls2/Sds
+Down-regulated,GO:0009074,aromatic amino acid family catabolic process,9/347,15/15715,5.013715367469582e-12,1.3830141005958401e-9,Kynu/Qdpr/Tdo2/Afmid/Pah/Hpd/Hgd/Tat/Acmsd
+Down-regulated,GO:1901607,alpha-amino acid biosynthetic process,14/347,55/15715,9.691857063332867e-12,2.482499959222262e-9,Sephs2/Nags/Agxt2/Pah/Asl/Aass/Cth/Cbs/Agxt/Sdsl/Ass1/Got1/Gls2/Sds
+Down-regulated,GO:0044283,small molecule biosynthetic process,38/347,484/15715,1.0972939291384976e-11,2.6232640199271014e-9,Hnf4a/Sephs2/Abcd1/Gamt/Kynu/Nags/Crtc2/Fads1/Upb1/Haao/Acsm5/Agxt2/Qdpr/Cyp2c23/Fgfr4/Pah/Asl/Aass/Fbp1/Gpt/Cth/Gnpda1/Cbs/Agxt/Sdsl/Gstp1/Cyp7b1/Gnmt/Acmsd/Cyp4a12b/Ass1/Pck1/Obp2a/Got1/Gls2/Sds/Gstp2/Nnmt
+Down-regulated,GO:0006790,sulfur compound metabolic process,29/347,300/15715,2.5511788484964273e-11,5.717829594192618e-9,Acadsb/Ghr/Hnf4a/Hagh/Abcd1/Gamt/Ndst1/Kynu/Pipox/Acsm5/Tdo2/Gstk1/Slc1a2/Gstm6/Ahcyl2/Cth/Cps1/Cbs/Agxt/Gsta2/Gstp1/Gnmt/Nat8f5/Gstm2/Clic5/Sult5a1/Gstp2/Nat8/Acsl6
+Down-regulated,GO:0009064,glutamine family amino acid metabolic process,13/347,60/15715,4.808536999364344e-10,1.0143184517482669e-7,Glud1/Nags/Aldh4a1/Fh1/Prodh/Asl/Arg1/Cps1/Tat/Ass1/Got1/Gls2/Oat
+Down-regulated,GO:0006536,glutamate metabolic process,9/347,25/15715,1.6834808201281288e-9,3.3538679005441503e-7,Glud1/Nags/Aldh4a1/Prodh/Asl/Tat/Got1/Gls2/Oat
+Down-regulated,GO:0006575,cellular modified amino acid metabolic process,20/347,175/15715,1.894740110952663e-9,3.5760726515138153e-7,Hagh/Gamt/Pipox/Gstk1/Dmgdh/Asl/Sardh/Slc1a2/Gstm6/Aldh1l1/Cth/Gsta2/Gstp1/Gnmt/Nat8f5/Gstm2/Ass1/Clic5/Gstp2/Nat8
+Down-regulated,GO:0000050,urea cycle,6/347,10/15715,2.1639182947291232e-8,3.8799055024493185e-6,Nags/Fh1/Asl/Arg1/Cps1/Ass1
+Down-regulated,GO:0009068,aspartate family amino acid catabolic process,6/347,11/15715,4.67216398390953e-8,7.284513063608511e-6,Gcat/Pipox/Aass/Sdsl/Got1/Sds
+Down-regulated,GO:0019627,urea metabolic process,6/347,11/15715,4.67216398390953e-8,7.284513063608511e-6,Nags/Fh1/Asl/Arg1/Cps1/Ass1
+Down-regulated,GO:0071941,nitrogen cycle metabolic process,6/347,11/15715,4.67216398390953e-8,7.284513063608511e-6,Nags/Fh1/Asl/Arg1/Cps1/Ass1
+Down-regulated,GO:0006749,glutathione metabolic process,12/347,75/15715,8.327019198120966e-8,1.2441954518525742e-5,Hagh/Gstk1/Slc1a2/Gstm6/Cth/Gsta2/Gstp1/Nat8f5/Gstm2/Clic5/Gstp2/Nat8
+Down-regulated,GO:0006570,tyrosine metabolic process,6/347,12/15715,9.170762682241884e-8,1.3154541991407758e-5,Ttc36/Pah/Hpd/Hgd/Tat/Dct
+Down-regulated,GO:0009065,glutamine family amino acid catabolic process,7/347,21/15715,2.1462401137892206e-7,2.9601604030954405e-5,Glud1/Aldh4a1/Prodh/Arg1/Got1/Gls2/Oat
+Down-regulated,GO:0009066,aspartate family amino acid metabolic process,8/347,36/15715,9.194698655745475e-7,1.177578192125117e-4,Gcat/Pipox/Aass/Sdsl/Gnmt/Ass1/Got1/Sds
+Down-regulated,GO:0009069,serine family amino acid metabolic process,8/347,36/15715,9.194698655745475e-7,1.177578192125117e-4,Gldc/Sephs2/Agxt2/Cth/Cbs/Agxt/Gnmt/Sds
+Down-regulated,GO:0006558,L-phenylalanine metabolic process,5/347,10/15715,1.1734520060051447e-6,1.4026662978448162e-4,Qdpr/Pah/Hpd/Hgd/Tat
+Down-regulated,GO:1902221,erythrose 4-phosphate/phosphoenolpyruvate family amino acid metabolic process,5/347,10/15715,1.1734520060051447e-6,1.4026662978448162e-4,Qdpr/Pah/Hpd/Hgd/Tat
+Down-regulated,GO:0042402,cellular biogenic amine catabolic process,6/347,18/15715,1.646682113937358e-6,1.9048393743804405e-4,Kynu/Tdo2/Afmid/Dmgdh/Paox/Acmsd
+Down-regulated,GO:0006006,glucose metabolic process,17/347,199/15715,2.087958606601288e-6,2.227954354243332e-4,Hnf4a/Rora/Crtc2/Igfbp4/Adra1b/Dcxr/Igf1/Fbp1/Gpt/Myc/Gnmt/Pck1/Obp2a/Sds/Tff3/Gcgr/Nnmt
+Down-regulated,GO:0006568,tryptophan metabolic process,5/347,11/15715,2.1123939778101865e-6,2.227954354243332e-4,Kynu/Haao/Tdo2/Afmid/Acmsd
+Down-regulated,GO:0006586,indolalkylamine metabolic process,5/347,11/15715,2.1123939778101865e-6,2.227954354243332e-4,Kynu/Haao/Tdo2/Afmid/Acmsd
+Down-regulated,GO:0006525,arginine metabolic process,6/347,19/15715,2.3620966339361444e-6,2.2893185214310847e-4,Nags/Fh1/Asl/Arg1/Ass1/Oat
+Down-regulated,GO:0009310,amine catabolic process,6/347,19/15715,2.3620966339361444e-6,2.2893185214310847e-4,Kynu/Tdo2/Afmid/Dmgdh/Paox/Acmsd
+Down-regulated,GO:0042430,indole-containing compound metabolic process,6/347,19/15715,2.3620966339361444e-6,2.2893185214310847e-4,Kynu/Haao/Tdo2/Afmid/Ddc/Acmsd
+Down-regulated,GO:0019318,hexose metabolic process,18/347,229/15715,3.449059710231615e-6,3.254823189708045e-4,Hnf4a/Rora/Crtc2/Igfbp4/Adra1b/Dcxr/Igf1/Fbp1/Gpt/Gnpda1/Myc/Gnmt/Pck1/Obp2a/Sds/Tff3/Gcgr/Nnmt
+Down-regulated,GO:0043650,dicarboxylic acid biosynthetic process,5/347,12/15715,3.555741371372882e-6,3.2694586045495266e-4,Kynu/Haao/Acmsd/Got1/Gls2
+Down-regulated,GO:0019319,hexose biosynthetic process,10/347,76/15715,6.336800339590252e-6,5.680941504442661e-4,Hnf4a/Crtc2/Fbp1/Gpt/Gnpda1/Gnmt/Pck1/Obp2a/Sds/Nnmt
+Down-regulated,GO:0071466,cellular response to xenobiotic stimulus,14/347,153/15715,7.566947440755823e-6,6.618310615256191e-4,Hnf4a/Rora/Cyp2c23/Cyp1a2/Fbp1/Ugt2b1/Cyp2u1/Myc/Gsta2/Gstp1/Gstm2/Ugt1a9/Pde4b/Gstp2
+Down-regulated,GO:0005996,monosaccharide metabolic process,18/347,244/15715,8.358355138675575e-6,7.136443220783479e-4,Hnf4a/Rora/Crtc2/Igfbp4/Adra1b/Dcxr/Igf1/Fbp1/Gpt/Gnpda1/Myc/Gnmt/Pck1/Obp2a/Sds/Tff3/Gcgr/Nnmt
+Down-regulated,GO:0046364,monosaccharide biosynthetic process,10/347,82/15715,1.2631729003312157e-5,0.0010461475143926854,Hnf4a/Crtc2/Fbp1/Gpt/Gnpda1/Gnmt/Pck1/Obp2a/Sds/Nnmt
+Down-regulated,GO:0006109,regulation of carbohydrate metabolic process,15/347,182/15715,1.2836165820769146e-5,0.0010461475143926854,Hnf4a/Rora/Stat3/Igfbp4/Adra1b/Zbtb7a/Igf1/Fbp1/Gpt/Myc/Gnmt/Obp2a/Tff3/Gcgr/Nnmt
+Down-regulated,GO:0006730,one-carbon metabolic process,7/347,37/15715,1.4018736718319391e-5,0.0011171375527087408,Dmgdh/Sardh/Ahcyl2/Aldh1l1/Car1/Car14/Gnmt
+Down-regulated,GO:0055086,nucleobase-containing small molecule metabolic process,26/347,470/15715,1.737274804654534e-5,0.0013543190107589476,Acadsb/Hnf4a/Rora/Atp5g1/Abcd1/Gamt/Kynu/Stat3/Pipox/Upb1/Haao/Zbtb7a/Acsm5/Uox/Ldhd/Tdo2/Igf1/Tk1/Fbp1/Gnpda1/Cps1/Upp2/Dpyd/Myc/Gnmt/Acsl6
+Down-regulated,GO:0010906,regulation of glucose metabolic process,12/347,123/15715,1.7761392827302914e-5,0.0013551168257174774,Hnf4a/Rora/Igfbp4/Adra1b/Igf1/Fbp1/Gpt/Gnmt/Obp2a/Tff3/Gcgr/Nnmt
+Down-regulated,GO:0009070,serine family amino acid biosynthetic process,5/347,16/15715,1.8231186968079686e-5,0.0013551168257174774,Sephs2/Agxt2/Cth/Cbs/Agxt
+Down-regulated,GO:0006805,xenobiotic metabolic process,11/347,104/15715,1.8536380739812098e-5,0.0013551168257174774,Hnf4a/Rora/Cyp2c23/Cyp1a2/Ugt2b1/Cyp2u1/Gsta2/Gstp1/Gstm2/Ugt1a9/Gstp2
+Down-regulated,GO:0035264,multicellular organism growth,15/347,188/15715,1.8894545813127126e-5,0.0013551168257174774,Ghr/Plec/Ppib/Sptbn2/Gamt/Sik3/Ptch1/Stat3/Etnk2/Igf1/Arid5b/Hhex/Slc1a2/Cela1/Slc25a25
+Down-regulated,GO:0043434,response to peptide hormone,20/347,311/15715,2.0258166915127365e-5,0.0014244271874048378,Cyc1/Ghr/Serpina1b/Ahsg/Ptprf/Stat3/Serpina1c/Serpina1a/Baiap2l1/Ikbkb/Klf15/Igf1/Serpina1d/Socs3/Lpin1/Serpina1e/Pck1/Nr4a1/Obp2a/Gcgr
+Down-regulated,GO:0062012,regulation of small molecule metabolic process,21/347,341/15715,2.40503033375302e-5,0.0016585459186227558,Hnf4a/Rora/Abcd1/Stat3/Igfbp4/Adra1b/Zbtb7a/Fh1/Ncor2/Fgfr4/Igf1/Ttc39b/Fbp1/Gpt/Myc/Gnmt/Acmsd/Obp2a/Tff3/Gcgr/Nnmt
+Down-regulated,GO:0044262,cellular carbohydrate metabolic process,18/347,268/15715,2.9696188168388956e-5,0.0020092552975819397,Hnf4a/Rora/Ndst1/Stat3/Igfbp4/Adra1b/Igf1/Fbp1/Gpt/Gnmt/Mtmr7/Pck1/Treh/Obp2a/Got1/Tff3/Gcgr/Nnmt
+Down-regulated,GO:0010675,regulation of cellular carbohydrate metabolic process,13/347,151/15715,3.064059417375784e-5,0.002034762420501771,Hnf4a/Rora/Stat3/Igfbp4/Adra1b/Igf1/Fbp1/Gpt/Gnmt/Obp2a/Tff3/Gcgr/Nnmt
+Down-regulated,GO:0006094,gluconeogenesis,9/347,73/15715,3.147098851623101e-5,0.002051908451258262,Hnf4a/Crtc2/Fbp1/Gpt/Gnmt/Pck1/Obp2a/Sds/Nnmt
+Down-regulated,GO:0044106,cellular amine metabolic process,10/347,92/15715,3.5031771643171734e-5,0.002243284519864533,Kynu/Haao/Fh1/Tdo2/Afmid/Dmgdh/Paox/Ddc/Acmsd/Nnmt
+Down-regulated,GO:0009410,response to xenobiotic stimulus,18/347,273/15715,3.789283400762043e-5,0.0023839246096724006,Rptor/Hnf4a/Rora/Cyp2c23/Cyp1a2/Slc1a2/Fbp1/Ugt2b1/Dpyd/Cyp2u1/Myc/Gsta2/Gstp1/Gstm2/Ugt1a9/Pde4b/Atp4a/Gstp2
+Down-regulated,GO:0009308,amine metabolic process,10/347,96/15715,5.069285064754589e-5,0.003134216593484475,Kynu/Haao/Fh1/Tdo2/Afmid/Dmgdh/Paox/Ddc/Acmsd/Nnmt
+Down-regulated,GO:0009259,ribonucleotide metabolic process,20/347,334/15715,5.563223595269797e-5,0.003381308442819914,Acadsb/Hnf4a/Rora/Atp5g1/Abcd1/Kynu/Stat3/Pipox/Upb1/Zbtb7a/Acsm5/Uox/Ldhd/Tdo2/Igf1/Fbp1/Upp2/Dpyd/Myc/Acsl6
+Down-regulated,GO:1903825,organic acid transmembrane transport,11/347,118/15715,6.043481132116943e-5,0.0035527743179953044,Abcd1/Slc25a15/Slc1a2/Slc38a4/Slc38a3/Myc/Slc7a2/Slc43a1/Slc3a1/Slc13a2/Acsl6
+Down-regulated,GO:1905039,carboxylic acid transmembrane transport,11/347,118/15715,6.043481132116943e-5,0.0035527743179953044,Abcd1/Slc25a15/Slc1a2/Slc38a4/Slc38a3/Myc/Slc7a2/Slc43a1/Slc3a1/Slc13a2/Acsl6
+Down-regulated,GO:0006213,pyrimidine nucleoside metabolic process,4/347,11/15715,6.819498134955516e-5,0.003944309727733948,Upb1/Tk1/Upp2/Dpyd
+Down-regulated,GO:0006576,cellular biogenic amine metabolic process,9/347,81/15715,7.244959383088363e-5,0.004108180373119814,Kynu/Haao/Tdo2/Afmid/Dmgdh/Paox/Ddc/Acmsd/Nnmt
+Down-regulated,GO:0042593,glucose homeostasis,16/347,236/15715,7.331944893465369e-5,0.004108180373119814,Hnf4a/Ptch1/Stat3/Crtc2/Adra1b/Ncor2/Fgfr4/Klf15/Pim3/Igf1/Sucnr1/Foxa3/Nrxn1/Pck1/Obp2a/Gcgr
+Down-regulated,GO:1901652,response to peptide,21/347,369/15715,7.555293820576587e-5,0.004168197483167329,Cyc1/Ghr/Serpina1b/Ahsg/Ptprf/Stat3/Serpina1c/Serpina1a/Baiap2l1/Ikbkb/Klf15/Igf1/Serpina1d/Irf5/Socs3/Lpin1/Serpina1e/Pck1/Nr4a1/Obp2a/Gcgr
+Down-regulated,GO:0033500,carbohydrate homeostasis,16/347,237/15715,7.707832247285961e-5,0.004187922187692039,Hnf4a/Ptch1/Stat3/Crtc2/Adra1b/Ncor2/Fgfr4/Klf15/Pim3/Igf1/Sucnr1/Foxa3/Nrxn1/Pck1/Obp2a/Gcgr
+Down-regulated,GO:0048545,response to steroid hormone,14/347,189/15715,8.046936257858157e-5,0.004306912450847664,Cpn1/Hsd3b3/Adra1b/Zbtb7a/Ncor2/Igf1/Hsd3b5/Scnn1a/Agxt/Cyp7b1/Tat/Ass1/Pck1/Ntrk2
+Down-regulated,GO:0019693,ribose phosphate metabolic process,20/347,344/15715,8.35798310529412e-5,0.004407606972880105,Acadsb/Hnf4a/Rora/Atp5g1/Abcd1/Kynu/Stat3/Pipox/Upb1/Zbtb7a/Acsm5/Uox/Ldhd/Tdo2/Igf1/Fbp1/Upp2/Dpyd/Myc/Acsl6
+Down-regulated,GO:0009071,serine family amino acid catabolic process,4/347,12/15715,1.0051460133864613e-4,0.005149219434291215,Gldc/Cbs/Agxt/Sds
+Down-regulated,GO:0010288,response to lead ion,4/347,12/15715,1.0051460133864613e-4,0.005149219434291215,Serpina1b/Serpina1c/Serpina1d/Serpina1e
+Down-regulated,GO:0015807,L-amino acid transport,7/347,50/15715,1.063326509968355e-4,0.005370547696826086,Slc25a15/Arg1/Slc1a2/Slc38a3/Slc7a2/Slc43a1/Slc3a1
+Down-regulated,GO:0010038,response to metal ion,16/347,244/15715,1.0846834615554657e-4,0.005402326240469306,Glud1/P2rx4/Serpina1b/Slc25a23/Trf/Serpina1c/Haao/Ank3/Serpina1d/Cyp1a2/Sucnr1/Fbp1/Nrxn1/Tat/Ass1/Serpina1e
+Down-regulated,GO:0009116,nucleoside metabolic process,7/347,51/15715,1.2094247388733346e-4,0.005941091936438052,Gamt/Upb1/Uox/Tk1/Upp2/Dpyd/Gnmt
+Down-regulated,GO:0006820,anion transport,21/347,384/15715,1.3218702198579358e-4,0.0064057116329872404,Stard10/Fgfr4/Slc25a15/Slco2a1/Arg1/Slc1a2/Slc38a3/Agxt/P2ry4/Slc22a28/Myc/Slc37a1/Fgfr1/Slc10a2/Clic5/Slc7a2/Slc43a1/Slc3a1/Ttyh1/Slc13a2/Ntrk2
+Down-regulated,GO:0031960,response to corticosteroid,8/347,69/15715,1.3485881823133738e-4,0.0064480496290343445,Cpn1/Hsd3b3/Hsd3b5/Scnn1a/Agxt/Tat/Ass1/Pck1
+Down-regulated,GO:0009084,glutamine family amino acid biosynthetic process,4/347,13/15715,1.426661531043334e-4,0.0065946026841123655,Nags/Asl/Ass1/Gls2
+Down-regulated,GO:0070365,hepatocyte differentiation,4/347,13/15715,1.426661531043334e-4,0.0065946026841123655,Hnf4a/Hhex/Foxa3/Pck1
+Down-regulated,GO:0072521,purine-containing compound metabolic process,20/347,358/15715,1.4344088381504868e-4,0.0065946026841123655,Acadsb/Hnf4a/Rora/Atp5g1/Abcd1/Gamt/Kynu/Stat3/Pipox/Zbtb7a/Acsm5/Uox/Ldhd/Tdo2/Igf1/Fbp1/Dpyd/Myc/Gnmt/Acsl6
+Down-regulated,GO:0016051,carbohydrate biosynthetic process,13/347,176/15715,1.480753739268625e-4,0.006721497353186441,Hnf4a/Ndst1/Crtc2/Igf1/Fbp1/Gpt/Gnpda1/Gnmt/Pck1/Obp2a/Got1/Sds/Nnmt
+Down-regulated,GO:1901361,organic cyclic compound catabolic process,22/347,421/15715,1.7597319908832255e-4,0.00788799864913406,Skiv2l/Nsun2/Abcd1/Kynu/Tet3/Upb1/Uox/Qdpr/Tdo2/Afmid/Pah/Hpd/Btg2/Cyp1a2/Tob1/Hgd/Aldh1l1/Ugt2b1/Upp2/Dpyd/Tat/Acmsd
+Down-regulated,GO:0051960,regulation of nervous system development,23/347,458/15715,2.244891267648237e-4,0.00993849393306985,Map2k2/Zcchc24/Atp5g1/Ctdsp1/Trf/Ptprf/Sema4g/Pard3/Ulk1/Igf1/Hes6/Nrxn1/Serpine2/Plxnb1/Myc/Tert/Lpin1/Sema6c/Robo1/Tiam2/Dct/Lrtm1/Ntrk2
+Down-regulated,GO:0072329,monocarboxylic acid catabolic process,10/347,115/15715,2.3150790722499553e-4,0.010124236040351635,Etfb/Abcd1/Agxt2/Ldhd/Cyp4f15/Bdh2/Agxt/Lpin1/Pck1/Obp2a
+Down-regulated,GO:0019439,aromatic compound catabolic process,21/347,402/15715,2.4745070924760593e-4,0.010691063173035118,Skiv2l/Nsun2/Abcd1/Kynu/Tet3/Upb1/Uox/Qdpr/Tdo2/Afmid/Pah/Hpd/Btg2/Tob1/Hgd/Aldh1l1/Ugt2b1/Upp2/Dpyd/Tat/Acmsd
+Down-regulated,GO:0009117,nucleotide metabolic process,21/347,412/15715,3.438492816212709e-4,0.014537294587452147,Acadsb/Hnf4a/Rora/Atp5g1/Abcd1/Kynu/Stat3/Pipox/Upb1/Haao/Zbtb7a/Acsm5/Uox/Ldhd/Tdo2/Igf1/Fbp1/Upp2/Dpyd/Myc/Acsl6
+Down-regulated,GO:0006544,glycine metabolic process,4/347,16/15715,3.445817177728479e-4,0.014537294587452147,Gldc/Agxt2/Agxt/Gnmt
+Down-regulated,GO:0010951,negative regulation of endopeptidase activity,11/347,145/15715,3.769523858998936e-4,0.01571803785856998,Serpina10/Serpina1b/Ahsg/Serpina1c/Serpina1a/Igf1/Serpina1d/Serpine2/Serpina9/Serpina1e/Nr4a1
+Down-regulated,GO:0042558,pteridine-containing compound metabolic process,5/347,29/15715,3.9146456041976155e-4,0.01613553923753178,Pipox/Qdpr/Dmgdh/Sardh/Aldh1l1
+Down-regulated,GO:0051289,protein homotetramerization,6/347,45/15715,4.371202761918756e-4,0.017675130914433144,Crtc2/Upb1/Tdo2/Tk1/Cth/Gnmt
+Down-regulated,GO:0006753,nucleoside phosphate metabolic process,21/347,420/15715,4.432120532092245e-4,0.017675130914433144,Acadsb/Hnf4a/Rora/Atp5g1/Abcd1/Kynu/Stat3/Pipox/Upb1/Haao/Zbtb7a/Acsm5/Uox/Ldhd/Tdo2/Igf1/Fbp1/Upp2/Dpyd/Myc/Acsl6
+Down-regulated,GO:0006637,acyl-CoA metabolic process,8/347,82/15715,4.4853232381857674e-4,0.017675130914433144,Acadsb/Hnf4a/Abcd1/Kynu/Pipox/Acsm5/Tdo2/Acsl6
+Down-regulated,GO:0035383,thioester metabolic process,8/347,82/15715,4.4853232381857674e-4,0.017675130914433144,Acadsb/Hnf4a/Abcd1/Kynu/Pipox/Acsm5/Tdo2/Acsl6
+Down-regulated,GO:0051384,response to glucocorticoid,7/347,63/15715,4.609329548284694e-4,0.0179663649566836,Cpn1/Hsd3b3/Hsd3b5/Agxt/Tat/Ass1/Pck1
+Down-regulated,GO:0015849,organic acid transport,15/347,251/15715,4.784727755990815e-4,0.018449498637616198,Abcd1/Slc25a15/Arg1/Slc1a2/Slc38a4/Slc38a3/Agxt/Myc/Slc10a2/Slc7a2/Slc43a1/Slc3a1/Slc13a2/Ntrk2/Acsl6
+Down-regulated,GO:0021587,cerebellum morphogenesis,6/347,47/15715,5.553153730048538e-4,0.0210397648237748,Rora/Sptbn2/Ulk1/Nrxn1/Cbs/Serpine2
+Down-regulated,GO:0046942,carboxylic acid transport,14/347,228/15715,5.608120129900797e-4,0.0210397648237748,Stard10/Slc25a15/Slco2a1/Arg1/Slc1a2/Slc38a3/Agxt/Myc/Slc10a2/Slc7a2/Slc43a1/Slc3a1/Slc13a2/Ntrk2
+Down-regulated,GO:0001676,long-chain fatty acid metabolic process,9/347,106/15715,5.632508151373065e-4,0.0210397648237748,Abcd1/Fads1/Cyp2c23/Cyp4f15/Cyp2u1/Gstp1/Cyp4a12b/Gstp2/Acsl6
+Down-regulated,GO:0006865,amino acid transport,10/347,129/15715,5.8216783493739e-4,0.02130259036821919,Slc25a15/Arg1/Slc1a2/Slc38a4/Slc38a3/Myc/Slc7a2/Slc43a1/Slc3a1/Ntrk2
+Down-regulated,GO:1901136,carbohydrate derivative catabolic process,10/347,129/15715,5.8216783493739e-4,0.02130259036821919,Edem2/Gm2a/Abcd1/Upb1/Uox/Pglyrp2/Gnpda1/Upp2/Dpyd/Cela1
+Down-regulated,GO:0000096,sulfur amino acid metabolic process,5/347,32/15715,6.287755503250621e-4,0.022775647711774472,Cth/Cps1/Cbs/Agxt/Gnmt
+Down-regulated,GO:0009150,purine ribonucleotide metabolic process,17/347,315/15715,6.614167735284303e-4,0.02371840549872951,Acadsb/Hnf4a/Rora/Atp5g1/Abcd1/Kynu/Stat3/Pipox/Zbtb7a/Acsm5/Uox/Ldhd/Tdo2/Igf1/Fbp1/Myc/Acsl6
+Down-regulated,GO:0009159,deoxyribonucleoside monophosphate catabolic process,4/347,19/15715,6.964030326093418e-4,0.02450245326597279,Upb1/Uox/Upp2/Dpyd
+Down-regulated,GO:0021575,hindbrain morphogenesis,6/347,49/15715,6.969465234604641e-4,0.02450245326597279,Rora/Sptbn2/Ulk1/Nrxn1/Cbs/Serpine2
+Down-regulated,GO:0010035,response to inorganic substance,20/347,410/15715,8.196033471378245e-4,0.02840449828572054,Glud1/P2rx4/Serpina1b/Plec/Slc25a23/Trf/Ptch1/Serpina1c/Haao/Ank3/Serpina1d/Cyp1a2/Sucnr1/Fbp1/Nrxn1/Cps1/Tat/Ass1/Serpina1e/Nr4a1
+Down-regulated,GO:0097305,response to alcohol,10/347,135/15715,8.30095197677598e-4,0.02840449828572054,Serpina1b/Hsd3b3/Ptch1/Serpina1c/Igf1/Serpina1d/Hsd3b5/Scnn1a/P2ry4/Serpina1e
+Down-regulated,GO:0006541,glutamine metabolic process,4/347,20/15715,8.55461744243675e-4,0.02840449828572054,Glud1/Asl/Cps1/Gls2
+Down-regulated,GO:0009158,ribonucleoside monophosphate catabolic process,4/347,20/15715,8.55461744243675e-4,0.02840449828572054,Upb1/Uox/Upp2/Dpyd
+Down-regulated,GO:0046653,tetrahydrofolate metabolic process,4/347,20/15715,8.55461744243675e-4,0.02840449828572054,Pipox/Dmgdh/Sardh/Aldh1l1
+Down-regulated,GO:0072529,pyrimidine-containing compound catabolic process,4/347,20/15715,8.55461744243675e-4,0.02840449828572054,Tet3/Upb1/Upp2/Dpyd
+Down-regulated,GO:0006111,regulation of gluconeogenesis,6/347,51/15715,8.650237527842908e-4,0.028458487866829967,Hnf4a/Fbp1/Gpt/Gnmt/Obp2a/Nnmt
+Down-regulated,GO:0050767,regulation of neurogenesis,19/347,384/15715,9.301997273488316e-4,0.03032451111157191,Map2k2/Zcchc24/Atp5g1/Ctdsp1/Trf/Ptprf/Sema4g/Ulk1/Igf1/Hes6/Serpine2/Plxnb1/Myc/Tert/Sema6c/Robo1/Tiam2/Dct/Ntrk2
+Down-regulated,GO:0009164,nucleoside catabolic process,4/347,21/15715,0.0010385001297175227,0.033250548796134254,Upb1/Uox/Upp2/Dpyd
+Down-regulated,GO:0044550,secondary metabolite biosynthetic process,4/347,21/15715,0.0010385001297175227,0.033250548796134254,Ddt/Cyp1a2/Bdh2/Dct
+Down-regulated,GO:0072527,pyrimidine-containing compound metabolic process,6/347,53/15715,0.0010627195143823771,0.03372488653606376,Tet3/Upb1/Tk1/Cps1/Upp2/Dpyd
+Down-regulated,GO:0042180,cellular ketone metabolic process,13/347,217/15715,0.001097600297928412,0.03452626902080075,Hnf4a/Hagh/Abcd1/Kynu/Fh1/Ncor2/Cyp4f15/Tdo2/Fgfr4/Nqo2/Afmid/Cyp17a1/Obp2a
+Down-regulated,GO:0009131,pyrimidine nucleoside monophosphate catabolic process,3/347,10/15715,0.0011412336965899062,0.03468189860992715,Upb1/Upp2/Dpyd
+Down-regulated,GO:0009178,pyrimidine deoxyribonucleoside monophosphate catabolic process,3/347,10/15715,0.0011412336965899062,0.03468189860992715,Upb1/Upp2/Dpyd
+Down-regulated,GO:0009222,pyrimidine ribonucleotide catabolic process,3/347,10/15715,0.0011412336965899062,0.03468189860992715,Upb1/Upp2/Dpyd
+Down-regulated,GO:0051385,response to mineralocorticoid,3/347,10/15715,0.0011412336965899062,0.03468189860992715,Hsd3b3/Hsd3b5/Scnn1a
+Down-regulated,GO:1901657,glycosyl compound metabolic process,7/347,74/15715,0.0012193589067950544,0.0367447146198913,Gamt/Upb1/Uox/Tk1/Upp2/Dpyd/Gnmt
+Down-regulated,GO:0006631,fatty acid metabolic process,19/347,395/15715,0.00129418847808714,0.03867466568683736,Acadsb/Etfb/Hnf4a/Abcd1/Fads1/Acsm5/Cyp2c23/Cyp4f15/C3/Cyp1a2/Bdh2/Cyp2u1/Gstp1/Lpin1/Cyp4a12b/Pck1/Obp2a/Gstp2/Acsl6
+Down-regulated,GO:0006163,purine nucleotide metabolic process,17/347,337/15715,0.001386181540873483,0.04080997596129443,Acadsb/Hnf4a/Rora/Atp5g1/Abcd1/Kynu/Stat3/Pipox/Zbtb7a/Acsm5/Uox/Ldhd/Tdo2/Igf1/Fbp1/Myc/Acsl6
+Down-regulated,GO:0048732,gland development,18/347,367/15715,0.0013884040901500057,0.04080997596129443,Map2k2/Hnf4a/Itpr1/Ptch1/Upb1/Cobl/Igf1/Arid5b/Asl/Hhex/Foxa3/Serpine2/Mafb/Cela1/Cyp7b1/Fgfr1/Robo1/Pck1
+Down-regulated,GO:0021696,cerebellar cortex morphogenesis,5/347,38/15715,0.0014065382703641145,0.04093248449358651,Rora/Sptbn2/Ulk1/Nrxn1/Serpine2
+Down-regulated,GO:0043470,regulation of carbohydrate catabolic process,6/347,56/15715,0.001422106246672629,0.04093248449358651,Stat3/Adra1b/Zbtb7a/Igf1/Fbp1/Myc
+Down-regulated,GO:0003333,amino acid transmembrane transport,7/347,76/15715,0.0014268155498322124,0.04093248449358651,Slc25a15/Slc1a2/Slc38a4/Slc38a3/Slc7a2/Slc43a1/Slc3a1
+Down-regulated,GO:0009125,nucleoside monophosphate catabolic process,4/347,23/15715,0.0014839498601006956,0.04190113541985113,Upb1/Uox/Upp2/Dpyd
+Down-regulated,GO:0070920,regulation of production of small RNA involved in gene silencing by RNA,4/347,23/15715,0.0014839498601006956,0.04190113541985113,Map2k2/Stat3/Ncor2/Tert
+Down-regulated,GO:0043649,dicarboxylic acid catabolic process,3/347,11/15715,0.0015436232148050386,0.04324556912727241,Glud1/Aldh1l1/Got1
+Down-regulated,GO:0015711,organic anion transport,15/347,282/15715,0.0015597610406159809,0.04335893869495277,Stard10/Slc25a15/Slco2a1/Arg1/Slc1a2/Slc38a3/Agxt/Slc22a28/Myc/Slc10a2/Slc7a2/Slc43a1/Slc3a1/Slc13a2/Ntrk2
+Down-regulated,GO:0033865,nucleoside bisphosphate metabolic process,8/347,100/15715,0.001663271716834716,0.04518554830734312,Acadsb/Hnf4a/Abcd1/Kynu/Pipox/Acsm5/Tdo2/Acsl6
+Down-regulated,GO:0033875,ribonucleoside bisphosphate metabolic process,8/347,100/15715,0.001663271716834716,0.04518554830734312,Acadsb/Hnf4a/Abcd1/Kynu/Pipox/Acsm5/Tdo2/Acsl6
+Down-regulated,GO:0034032,purine nucleoside bisphosphate metabolic process,8/347,100/15715,0.001663271716834716,0.04518554830734312,Acadsb/Hnf4a/Abcd1/Kynu/Pipox/Acsm5/Tdo2/Acsl6
+Down-regulated,GO:0006760,folic acid-containing compound metabolic process,4/347,24/15715,0.00175006102820353,0.04648680627509525,Pipox/Dmgdh/Sardh/Aldh1l1
+Down-regulated,GO:0034656,nucleobase-containing small molecule catabolic process,4/347,24/15715,0.00175006102820353,0.04648680627509525,Upb1/Uox/Upp2/Dpyd
+Down-regulated,GO:0042537,benzene-containing compound metabolic process,4/347,24/15715,0.00175006102820353,0.04648680627509525,Kynu/Tdo2/Afmid/Ugt2b1
+Down-regulated,GO:0009991,response to extracellular stimulus,16/347,317/15715,0.001888441209026,0.04979375129093556,Tle5/Rptor/Plec/Kynu/Fads1/Ulk1/Mn1/Slc1a2/Foxa3/Dpyd/Slc38a3/Cbs/Clic5/Pck1/Slc25a25/Gcgr
+Up-regulated,GO:0033559,unsaturated fatty acid metabolic process,14/239,111/15715,1.3762172177943606e-9,2.7681369375834514e-6,Cyp2b9/Cyp2b10/Cyp4a14/Ptges/Cyp2c69/Cyp2c40/Ptgds/Abcd2/Fabp5/Cyp2c38/Cyp2c39/Cyp4a10/Scd2/Mgll
+Up-regulated,GO:0006631,fatty acid metabolic process,25/239,395/15715,1.7631445462314977e-9,2.7681369375834514e-6,Cyp2b9/Cyp2b10/Pnpla3/Cyp4a14/Ptges/Apoa4/Acot3/Cyp2c69/Cyp2c40/Ptgds/Abcd2/Fabp5/Cyp2c38/Cyp2c39/Cyp4a10/Cd36/Crat/Scd2/Insig2/Pparg/Fabp2/Aldh3a2/Ces1d/Ces1g/Mgll
+Up-regulated,GO:0046486,glycerolipid metabolic process,22/239,341/15715,1.2427266463775539e-8,1.3007205565418399e-5,Pnpla5/Pnpla3/Fgf21/Apoa4/Cds1/Gal3st1/Fabp5/Gpat3/Serinc2/Synj2/Cd36/Pik3cd/Insig2/Pigp/Chkb/Ces1d/Plek/Ces1g/Plscr1/Sh3yl1/Pla2g6/Mgll
+Up-regulated,GO:0001676,long-chain fatty acid metabolic process,12/239,106/15715,7.24049138414152e-8,4.2357057192530904e-5,Cyp2b9/Cyp2b10/Pnpla3/Cyp4a14/Acot3/Cyp2c69/Cyp2c40/Cyp2c38/Cyp2c39/Cyp4a10/Cd36/Mgll
+Up-regulated,GO:0051607,defense response to virus,17/239,229/15715,8.093705196025013e-8,4.2357057192530904e-5,Oas3/Oasl2/Tlr7/Oas1a/Spon2/Slfn8/Fgl2/Ifi204/Ifit2/Ifit3/Irf7/Rtp4/Ptprc/Plscr1/Elmod2/Rnf125/Bnip3
+Up-regulated,GO:0140546,defense response to symbiont,17/239,229/15715,8.093705196025013e-8,4.2357057192530904e-5,Oas3/Oasl2/Tlr7/Oas1a/Spon2/Slfn8/Fgl2/Ifi204/Ifit2/Ifit3/Irf7/Rtp4/Ptprc/Plscr1/Elmod2/Rnf125/Bnip3
+Up-regulated,GO:0006690,icosanoid metabolic process,12/239,117/15715,2.176028368777547e-7,9.761041539944997e-5,Cyp2b9/Cyp2b10/Cyp4a14/Ptges/Cyp2c69/Cyp2c40/Ptgds/Fabp5/Cyp2c38/Cyp2c39/Cyp4a10/Mgll
+Up-regulated,GO:0009615,response to virus,18/239,281/15715,3.0774202568572777e-7,1.2078874508164815e-4,Ifi27l2a/Oas3/Oasl2/Tlr7/Oas1a/Spon2/Slfn8/Fgl2/Ifi204/Ifit2/Ifit3/Irf7/Rtp4/Ptprc/Plscr1/Elmod2/Rnf125/Bnip3
+Up-regulated,GO:0019369,arachidonic acid metabolic process,9/239,64/15715,4.981040603810812e-7,1.7378297217739947e-4,Cyp2b9/Cyp2b10/Cyp4a14/Cyp2c69/Cyp2c40/Cyp2c38/Cyp2c39/Cyp4a10/Mgll
+Up-regulated,GO:0035634,response to stilbenoid,6/239,22/15715,7.071292331147037e-7,2.2203857919801697e-4,Cyp2b9/Apoa4/Ly6d/Cd36/Usp18/Ifit3
+Up-regulated,GO:0035457,cellular response to interferon-alpha,5/239,15/15715,2.0691610653353566e-6,5.425668210522163e-4,Oas1a/Ifi204/Ifit2/Ifit3/Ro60
+Up-regulated,GO:0035455,response to interferon-alpha,6/239,26/15715,2.0735037747218458e-6,5.425668210522163e-4,Oas1a/Ifi204/Ifit2/Ifit3/Ro60/Plscr1
+Up-regulated,GO:0019373,epoxygenase P450 pathway,6/239,28/15715,3.30766523089089e-6,7.989283711536458e-4,Cyp2b9/Cyp2b10/Cyp2c69/Cyp2c40/Cyp2c38/Cyp2c39
+Up-regulated,GO:0015718,monocarboxylic acid transport,9/239,93/15715,1.1867961195928853e-5,0.0026618141539440426,Ptges/Aqp8/Cd36/Ces1d/Ces1g/Pla2g6/Slc16a12/Slc16a1/Mpc2
+Up-regulated,GO:0051791,medium-chain fatty acid metabolic process,5/239,22/15715,1.663180439636877e-5,0.0034815910536398625,Cyp4a14/Cyp4a10/Crat/Ces1d/Ces1g
+Up-regulated,GO:0035456,response to interferon-beta,7/239,57/15715,2.385342905901953e-5,0.0043445906976712564,Ifi209/Xaf1/Oas1a/Ifi211/Ifi204/Ifit3/Iigp1
+Up-regulated,GO:0046461,neutral lipid catabolic process,6/239,39/15715,2.490529699301994e-5,0.0043445906976712564,Pnpla5/Pnpla3/Fgf21/Apoa4/Ces1d/Mgll
+Up-regulated,GO:0046464,acylglycerol catabolic process,6/239,39/15715,2.490529699301994e-5,0.0043445906976712564,Pnpla5/Pnpla3/Fgf21/Apoa4/Ces1d/Mgll
+Up-regulated,GO:0006639,acylglycerol metabolic process,10/239,131/15715,3.167264025349908e-5,0.005056643532003944,Pnpla5/Pnpla3/Fgf21/Apoa4/Gpat3/Cd36/Insig2/Ces1d/Ces1g/Mgll
+Up-regulated,GO:0046503,glycerolipid catabolic process,7/239,60/15715,3.352191665608753e-5,0.005056643532003944,Pnpla5/Pnpla3/Fgf21/Apoa4/Ces1d/Pla2g6/Mgll
+Up-regulated,GO:0006638,neutral lipid metabolic process,10/239,132/15715,3.3818316615313e-5,0.005056643532003944,Pnpla5/Pnpla3/Fgf21/Apoa4/Gpat3/Cd36/Insig2/Ces1d/Ces1g/Mgll
+Up-regulated,GO:0046942,carboxylic acid transport,13/239,228/15715,4.7736932446578065e-5,0.006813362176466142,Ptges/Aqp8/Slc17a8/Cd36/Pak1/Ces1d/Ces1g/Folr2/Pla2g6/Slc16a12/Slc16a1/Slc17a2/Mpc2
+Up-regulated,GO:0046394,carboxylic acid biosynthetic process,14/239,269/15715,6.617449576978862e-5,0.008663016161824199,Cyp4a14/Ptges/Apoa4/Psat1/Ptgds/Abcd2/Fabp5/Cyp4a10/Scd2/Insig2/Ces1d/Cyp39a1/Ces1g/Mgll
+Up-regulated,GO:0016053,organic acid biosynthetic process,14/239,270/15715,6.886394606399835e-5,0.008663016161824199,Cyp4a14/Ptges/Apoa4/Psat1/Ptgds/Abcd2/Fabp5/Cyp4a10/Scd2/Insig2/Ces1d/Cyp39a1/Ces1g/Mgll
+Up-regulated,GO:0015908,fatty acid transport,7/239,67/15715,6.897305861325e-5,0.008663016161824199,Ptges/Abcd2/Fabp5/Cd36/Pparg/Fabp2/Pla2g6
+Up-regulated,GO:0015909,long-chain fatty acid transport,6/239,48/15715,8.356665231691781e-5,0.010092280318273921,Abcd2/Fabp5/Cd36/Pparg/Fabp2/Pla2g6
+Up-regulated,GO:0035458,cellular response to interferon-beta,6/239,49/15715,9.4028040740074307e-05,0.0109351128860679,Ifi209/Oas1a/Ifi211/Ifi204/Ifit3/Iigp1
+Up-regulated,GO:0006959,humoral immune response,11/239,181/15715,1.0387715954477328e-4,0.011408017942198588,Cfd/Defb1/Apcs/Spon2/Ptprc/Cfp/Pla2g6/Cfh/C1qa/C1qc/C1qb
+Up-regulated,GO:0016042,lipid catabolic process,14/239,281/15715,1.0536067526234363e-4,0.011408017942198588,Pnpla5/Pnpla3/Fgf21/Apoa4/Abcd2/Hsd17b6/Crat/Ces1d/Nceh1/Cyp39a1/Ces1g/Pla2g6/Mgll/Hsd17b11
+Up-regulated,GO:0015711,organic anion transport,14/239,282/15715,1.093888289667088e-4,0.011449364098515522,Ptges/Slc22a27/Aqp8/Slc17a8/Cd36/Pak1/Ces1d/Ces1g/Folr2/Pla2g6/Slc16a12/Slc16a1/Slc17a2/Mpc2
+Up-regulated,GO:0006650,glycerophospholipid metabolic process,13/239,249/15715,1.1676524619689654e-4,0.011827189453492102,Pnpla3/Apoa4/Cds1/Fabp5/Serinc2/Synj2/Pik3cd/Pigp/Chkb/Plek/Plscr1/Sh3yl1/Pla2g6
+Up-regulated,GO:0015849,organic acid transport,13/239,251/15715,1.2647149005813737e-4,0.01241001496195473,Ptges/Abcd2/Fabp5/Aqp8/Slc17a8/Cd36/Pak1/Pparg/Fabp2/Folr2/Pla2g6/Slc16a1/Mpc2
+Up-regulated,GO:0006956,complement activation,7/239,74/15715,1.3043235411543014e-4,0.01241083611886214,Cfd/Apcs/Cfp/Cfh/C1qa/C1qc/C1qb
+Up-regulated,GO:0006644,phospholipid metabolic process,15/239,325/15715,1.4021775293391735e-4,0.012949521888602955,Pnpla3/Apoa4/Cds1/Fabp5/Gpat3/Serinc2/Synj2/Pik3cd/Fitm1/Pigp/Chkb/Plek/Plscr1/Sh3yl1/Pla2g6
+Up-regulated,GO:0072330,monocarboxylic acid biosynthetic process,11/239,188/15715,1.4539708815565142e-4,0.013044195908821297,Ptges/Apoa4/Ptgds/Abcd2/Fabp5/Scd2/Insig2/Ces1d/Cyp39a1/Ces1g/Mgll
+Up-regulated,GO:0106106,cold-induced thermogenesis,9/239,130/15715,1.670680233117812e-4,0.014360217305532124,Fgf21/G0s2/Fabp5/Ucp2/Lepr/Cd36/Plac8/Pparg/Ces1d
+Up-regulated,GO:0002253,activation of immune response,14/239,294/15715,1.6921275168939125e-4,0.014360217305532124,Cfd/Vtcn1/Ifi209/Trim30a/Ifi211/Apcs/Ifi204/Ptprc/Plscr1/Cfp/Cfh/C1qa/C1qc/C1qb
+Up-regulated,GO:0006636,unsaturated fatty acid biosynthetic process,5/239,35/15715,1.745068740552563e-4,0.01441977854035539,Ptges/Ptgds/Abcd2/Fabp5/Scd2
+Up-regulated,GO:0006641,triglyceride metabolic process,8/239,104/15715,1.8684754029803935e-4,0.01442896713390819,Pnpla5/Pnpla3/Fgf21/Apoa4/Gpat3/Cd36/Insig2/Ces1g
+Up-regulated,GO:0006805,xenobiotic metabolic process,8/239,104/15715,1.8684754029803935e-4,0.01442896713390819,Cyp2b9/Cyp2b10/Cyp2c69/Cyp2c40/Cyp2c38/Cyp2c39/Nceh1/Fmo1
+Up-regulated,GO:0001659,temperature homeostasis,10/239,162/15715,1.8840371098415154e-4,0.01442896713390819,Fgf21/Ptges/G0s2/Fabp5/Ucp2/Lepr/Cd36/Plac8/Pparg/Ces1d
+Up-regulated,GO:0120254,olefinic compound metabolic process,9/239,137/15715,2.480085034491226e-4,0.01815574937923422,Cyp2b9/Cyp2b10/Cyp4a14/Cyp2c69/Cyp2c40/Cyp2c38/Cyp2c39/Cyp4a10/Mgll
+Up-regulated,GO:0120162,positive regulation of cold-induced thermogenesis,7/239,82/15715,2.4862968895129667e-4,0.01815574937923422,Fgf21/G0s2/Fabp5/Ucp2/Lepr/Cd36/Plac8
+Up-regulated,GO:0000303,response to superoxide,4/239,21/15715,2.547164788148846e-4,0.01817749416997131,Apoa4/Ucp2/Cd36/Nfe2l2
+Up-regulated,GO:0042178,xenobiotic catabolic process,6/239,60/15715,2.9289465761066805e-4,0.0201237487191132,Cyp2b9/Cyp2b10/Cyp2c69/Cyp2c40/Cyp2c38/Cyp2c39
+Up-regulated,GO:0000305,response to oxygen radical,4/239,22/15715,3.0762418424122085e-4,0.0201237487191132,Apoa4/Ucp2/Cd36/Nfe2l2
+Up-regulated,GO:0010885,regulation of cholesterol storage,4/239,22/15715,3.0762418424122085e-4,0.0201237487191132,Cd36/Pparg/Ces1d/Ces1g
+Up-regulated,GO:0071404,cellular response to low-density lipoprotein particle stimulus,4/239,22/15715,3.0762418424122085e-4,0.0201237487191132,Cd36/Pparg/Ces1d/Ces1g
+Up-regulated,GO:1990845,adaptive thermogenesis,9/239,143/15715,3.4109525512848233e-4,0.0218579408388456,Fgf21/G0s2/Fabp5/Ucp2/Lepr/Cd36/Plac8/Pparg/Ces1d
+Up-regulated,GO:0038084,vascular endothelial growth factor signaling pathway,5/239,41/15715,3.740492157880849e-4,0.022820781575436665,Cd63/Nrp2/Ptp4a3/Pik3cd/Nrp1
+Up-regulated,GO:0046456,icosanoid biosynthetic process,5/239,41/15715,3.740492157880849e-4,0.022820781575436665,Cyp4a14/Ptges/Ptgds/Fabp5/Cyp4a10
+Up-regulated,GO:0008654,phospholipid biosynthetic process,11/239,210/15715,3.787737443387891e-4,0.022820781575436665,Pnpla3/Cds1/Fabp5/Gpat3/Pik3cd/Fitm1/Pigp/Chkb/Plscr1/Sh3yl1/Pla2g6
+Up-regulated,GO:0098883,synapse pruning,3/239,10/15715,3.851915361459055e-4,0.022820781575436665,C1qa/C1qc/C1qb
+Up-regulated,GO:0010878,cholesterol storage,4/239,24/15715,4.3632489827390744e-4,0.025371484825556838,Cd36/Pparg/Ces1d/Ces1g
+Up-regulated,GO:0048525,negative regulation of viral process,7/239,91/15715,4.7161682398657256e-4,0.026925033223960688,Oas3/Oasl2/Oas1a/Trim30a/Apcs/Ifi204/Plscr1
+Up-regulated,GO:0042180,cellular ketone metabolic process,11/239,217/15715,4.995391749516147e-4,0.028009875166929824,Cyp2b9/Cyp2b10/Apoa4/Abcd2/Fabp5/Hsd17b6/Insig2/Pparg/Ces1d/Akr1b3/Ces1g
+Up-regulated,GO:0034389,lipid droplet organization,4/239,25/15715,5.132766510410319e-4,0.028275240074891933,Pnpla3/Cidec/Cds1/Fitm1
+Up-regulated,GO:0060700,regulation of ribonuclease activity,3/239,11/15715,5.237017092248379e-4,0.028352127016655022,Oas3/Oasl2/Oas1a
+Up-regulated,GO:0071466,cellular response to xenobiotic stimulus,9/239,153/15715,5.593651138684259e-4,0.02976960097537046,Cyp2b9/Cyp2b10/Cyp2c69/Cyp2c40/Cyp2c38/Cyp2c39/Nceh1/Fmo1/Nfe2l2
+Up-regulated,GO:0010876,lipid localization,15/239,377/15715,6.771792982619301e-4,0.035439049942374345,Ptges/Apoa4/Osbpl3/Cds1/Abcd2/Fabp5/Aqp8/Cd36/Pparg/Fitm1/Fabp2/Ces1d/Ces1g/Plscr1/Pla2g6
+Up-regulated,GO:0060907,positive regulation of macrophage cytokine production,3/239,12/15715,0.00069044782436205915,0.035541084729456815,Cd36/Spon2/Rtn4
+Up-regulated,GO:0046474,glycerophospholipid biosynthetic process,9/239,158/15715,7.052862180721629e-4,0.03571933427010632,Pnpla3/Cds1/Fabp5/Pik3cd/Pigp/Chkb/Plscr1/Sh3yl1/Pla2g6
+Up-regulated,GO:0006820,anion transport,15/239,384/15715,8.167495949958256e-4,0.04022969568798743,Ptges/Slc22a27/Aqp8/Slc17a8/Cd36/Pak1/Ces1d/Ces1g/Folr2/Pla2g6/Slc20a1/Slc16a12/Slc16a1/Slc17a2/Mpc2
+Up-regulated,GO:0002831,regulation of response to biotic stimulus,13/239,305/15715,8.199683197551578e-4,0.04022969568798743,Serpinb1a/Oas3/Ifi209/Oas1a/Trim30a/Ifi211/Fgl2/Pparg/Ifi204/Irf7/Plscr1/Elmod2/Rnf125
+Up-regulated,GO:0006957,"complement activation, alternative pathway",3/239,13/15715,8.875359346207916e-4,0.04227929034065919,Cfd/Cfp/Cfh
+Up-regulated,GO:0019433,triglyceride catabolic process,4/239,29/15715,9.188644516933441e-4,0.04227929034065919,Pnpla5/Pnpla3/Fgf21/Apoa4
+Up-regulated,GO:0045017,glycerolipid biosynthetic process,10/239,198/15715,9.192646798962382e-4,0.04227929034065919,Pnpla3/Cds1/Fabp5/Gpat3/Pik3cd/Pigp/Chkb/Plscr1/Sh3yl1/Pla2g6
+Up-regulated,GO:0045088,regulation of innate immune response,10/239,198/15715,9.192646798962382e-4,0.04227929034065919,Serpinb1a/Oas3/Ifi209/Oas1a/Trim30a/Ifi211/Pparg/Ifi204/Irf7/Plscr1
+Up-regulated,GO:1903900,regulation of viral life cycle,8/239,132/15715,9.290672081227658e-4,0.04227929034065919,Top2a/Oas3/Oasl2/Oas1a/Trim30a/Apcs/Ifi204/Plscr1
+Up-regulated,GO:0045071,negative regulation of viral genome replication,5/239,50/15715,9.464910407140728e-4,0.042456883826316974,Oas3/Oasl2/Oas1a/Ifi204/Plscr1
+Up-regulated,GO:1905954,positive regulation of lipid localization,7/239,103/15715,9.900913863386414e-4,0.04328614769861101,Ptges/Cd36/Pparg/Fitm1/Ces1d/Ces1g/Pla2g6
+Up-regulated,GO:0042593,glucose homeostasis,11/239,236/15715,9.99007775509613e-4,0.04328614769861101,Fabp5/Ucp2/Lepr/Oas1a/Cd36/Csrp3/Pparg/Pla2g6/Slc16a1/Ero1b/Mpc2
+Up-regulated,GO:0033500,carbohydrate homeostasis,11/239,237/15715,0.001033881565391702,0.04328614769861101,Fabp5/Ucp2/Lepr/Oas1a/Cd36/Csrp3/Pparg/Pla2g6/Slc16a1/Ero1b/Mpc2
+Up-regulated,GO:0010883,regulation of lipid storage,5/239,51/15715,0.0010365370888059046,0.04328614769861101,Cd36/Pparg/Fitm1/Ces1d/Ces1g
+Up-regulated,GO:0045069,regulation of viral genome replication,6/239,76/15715,0.0010453525041690457,0.04328614769861101,Top2a/Oas3/Oasl2/Oas1a/Ifi204/Plscr1
+Up-regulated,GO:0021879,forebrain neuron differentiation,4/239,30/15715,0.0010476901990746615,0.04328614769861101,Nrp2/Lhx6/Hes1/Nrp1
+Up-regulated,GO:0021783,preganglionic parasympathetic fiber development,3/239,14/15715,0.0011169574401174859,0.0448143408190087,Nrp2/Hes1/Nrp1
+Up-regulated,GO:0048486,parasympathetic nervous system development,3/239,14/15715,0.0011169574401174859,0.0448143408190087,Nrp2/Hes1/Nrp1
+Up-regulated,GO:0006633,fatty acid biosynthetic process,8/239,136/15715,0.0011274945620069069,0.0448143408190087,Ptges/Apoa4/Ptgds/Abcd2/Fabp5/Scd2/Insig2/Mgll
+Up-regulated,GO:0044283,small molecule biosynthetic process,17/239,484/15715,0.0012106072042174314,0.047516332765534186,Cyp4a14/Ptges/Apoa4/Psat1/Ptgds/Abcd2/Fabp5/Cyp4a10/Lepr/Scd2/Insig2/Ces1d/Akr1b3/Plek/Cyp39a1/Ces1g/Mgll
+Up-regulated,GO:0090407,organophosphate biosynthetic process,16/239,443/15715,0.0012605961493209698,0.04886755443046722,Pnpla3/Cds1/Fabp5/Gpat3/Oasl2/Oas1a/Pik3cd/Nme7/Fitm1/Pigp/Chkb/Plek/Plscr1/Sh3yl1/Pla2g6/Mpc2
