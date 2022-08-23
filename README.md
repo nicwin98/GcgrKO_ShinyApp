@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/528005028.svg)](https://zenodo.org/badge/latestdoi/528005028)
+
 # GcgrKO Shiny App
 
 This app displays RNA sequencing data from livers of GcgrKO mice compared to wildtype littermates. If you wish to view the app online, it is accessible here:
